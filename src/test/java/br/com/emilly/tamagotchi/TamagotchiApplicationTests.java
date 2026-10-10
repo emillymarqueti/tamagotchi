@@ -1,4 +1,4 @@
-package br.com.joaocarloslima.tamagotchi;
+package br.com.emilly.tamagotchi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
